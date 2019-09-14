@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        />
+    <item android:title="Change Location"
+        android:id="@+id/changeLocation"
+        />
+    <item android:title="Generate Table for date range"
+        android:id="@+id/generateTable"
+        />
+    <item android:title="Share"
+        android:icon="@drawable/ic_share"
+        android:id="@+id/share"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+</menu>
